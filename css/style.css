@@ -1,0 +1,17 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+div {
+    width: 100vw;
+    height: 100vh;
+    background: yellow;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h1 {
+    color: blue;
+    font-size: 4em;
+    font-family: Arial, Helvetica, sans-serif;
+}
